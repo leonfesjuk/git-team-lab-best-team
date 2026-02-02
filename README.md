@@ -1,6 +1,6 @@
 \# Git Team Lab
 
-\## Команда
+\## Команда 1
 
 \- Team Lead: Leonid Fesiuk
 
